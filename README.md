@@ -3,6 +3,6 @@
 
 # Usage
 ```python
-import kamoji
+import kamoji as k
 
-kamoji.fy()
+k.fy()
