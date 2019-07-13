@@ -6,3 +6,4 @@
 import kamoji as k
 
 k.fy()
+```
