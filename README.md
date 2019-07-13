@@ -5,4 +5,4 @@
 ```python
 import kamoji
 
-kamoji.kamojipy()
+kamoji.fy()
