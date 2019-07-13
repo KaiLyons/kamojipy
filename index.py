@@ -1,4 +1,4 @@
-def kam():
+def fy():
     import random
     print(random.choice([
     "（*＾ワ＾*）",
