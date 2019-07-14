@@ -1,7 +1,10 @@
-# kamojipy
+# Kamojipy
   Based off of Owoceans [Kamojify](https://github.com/owocean/kamojify) remade in Python for pip! 
 
-# Usage
+## Installing
+`pip install kamojipy`
+
+## Usage
 ```python
 import kamoji as k
 
