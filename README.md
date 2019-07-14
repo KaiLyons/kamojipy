@@ -1,5 +1,5 @@
 # Kamojipy
-  Based off of Owoceans [Kamojify](https://github.com/owocean/kamojify) remade in Python for pip! 
+  Based off of Owoceans [Kamojify](https://github.com/owocean/kamojify) remade in Python installed with pip
 
 ## Installing
 `pip install kamojipy`
