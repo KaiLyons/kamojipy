@@ -6,7 +6,7 @@
 
 ## Usage
 ```python
-import kamoji as k
+import kamojipy as k
 
 k.fy()
 ```
